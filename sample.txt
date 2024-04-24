@@ -4,3 +4,12 @@ Enter the folder
 ->>>>> cd folder_name
 See how many file in the folder
 >>>>> ls
+find the folder in git
+-->> git status
+initialize the repo
+-->> git init
+-->> git add file_name
+-->> git commit -m"sample file added"
+   note:when you got error to commit or fatal:
+     ***set git config by email and user name.***
+
