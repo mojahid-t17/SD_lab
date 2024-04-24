@@ -12,4 +12,11 @@ initialize the repo
 -->> git commit -m"sample file added"
    note:when you got error to commit or fatal:
      ***set git config by email and user name.***
+create new branch 
+--> git branch branch name
+switch branch 
+-->>> git checkout branch_name
+marge new branch with main branch
+-->> git merge branch_filename
+then command--> push
 
