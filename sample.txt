@@ -1,0 +1,6 @@
+Create new folder by git
+---- >>> mkdir folder_name
+Enter the folder 
+->>>>> cd folder_name
+See how many file in the folder
+>>>>> ls
